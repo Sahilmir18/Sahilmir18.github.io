@@ -1,4 +1,4 @@
-# **[ 🏠 Home ](/)** | **[ 👤 About Me ](/about)**
+**[ Home ](/)** | **[ About Me ](/about)**
 # My Bug Bounty Writeups 
 
 <ul>
