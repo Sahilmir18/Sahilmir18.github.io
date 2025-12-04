@@ -1,6 +1,6 @@
 title: "Lab"
 description: "Bug Bounty | Security Research | CTF Writeups"
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/hacker
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
