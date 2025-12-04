@@ -1,0 +1,13 @@
+title: "Lab"
+description: "Bug Bounty | Security Research | CTF Writeups"
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+
+# Social Links (These usually appear in the footer or header)
+github_username: Sahilmir18
+# twitter_username: yourhandle
+
+markdown: kramdown
+theme: jekyll-theme-hacker
