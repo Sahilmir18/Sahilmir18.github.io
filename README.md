@@ -1,4 +1,5 @@
-# My Bug Bounty Writeups
+# **[ 🏠 Home ](/)** | **[ 👤 About Me ](/about)**
+# My Bug Bounty Writeups 
 
 <ul>
   {% for post in site.posts %}
