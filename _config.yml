@@ -11,3 +11,7 @@ github_username: Sahilmir18
 
 markdown: kramdown
 theme: jekyll-theme-hacker
+collections:
+  solutions:
+    output: true
+    
