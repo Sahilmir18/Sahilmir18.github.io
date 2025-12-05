@@ -8,6 +8,8 @@ categories: BUG Bounty
 
 # Cryptographic failures
 Section 4: Hashing 
+
+
 Hashing is a one way function use for checking integrity of digital things like packages,content etc. 
 Mainly two types
 1. Cryptographic (MD5,SHA256) used for security
