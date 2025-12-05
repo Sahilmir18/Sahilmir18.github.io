@@ -7,3 +7,6 @@ categories: BUG Bounty
 
 ## Summary
 This is my first blog setting up for my future documentation for my bug bounty learning and documentations.
+
+
+[< Back to Home](/)
