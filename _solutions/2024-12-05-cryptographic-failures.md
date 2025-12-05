@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "My First Post"
+title:  "Cryptographic Failures"
 date:   2024-12-05 12:00:00 -0500
 categories: BUG Bounty
 ---
