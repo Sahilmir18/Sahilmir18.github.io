@@ -10,4 +10,7 @@ This is my first solutions of webgoat setting up for my future documentation for
 # Cryptographic failures
 Summary 
 Calculated hash
+
+
+
 [< Back to Home](/)
