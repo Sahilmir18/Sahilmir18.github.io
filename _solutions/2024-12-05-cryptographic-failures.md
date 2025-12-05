@@ -7,7 +7,8 @@ categories: BUG Bounty
 
 
 # Cryptographic failures
-Section 4: Hashing 
+Section 4: 
+## Hashing 
 
 
 Hashing is a one way function use for checking integrity of digital things like packages,content etc. 
@@ -15,9 +16,9 @@ Mainly two types
 1. Cryptographic (MD5,SHA256) used for security
 2. Non Cryptographic (CRC32,FNV-1a) used for data structures and data distributions, compilers etc. not good for security but fast.
 
-IMPORTANT : You Cannot DECODE or DECRYPT hash (one way function)
+## IMPORTANT : You Cannot DECODE or DECRYPT hash (one way function)
 
-Steps to crack it:
+## Steps to crack it:
 Strong passwords stored with modern hashing algorithms and using hashing best practices should be effectively impossible for an attacker to crack. 
 
 
@@ -31,16 +32,16 @@ Lists of passwords obtained from other compromised sites
 Brute force (trying every possible candidate)
 Dictionaries or wordlists of common passwords
 
-SALTING
+## SALTING
 A salt is a unique, randomly generated string that is added to each password as part of the hashing process. As the salt is unique for every user, an attacker has to crack hashes one at a time using the respective salt rather than calculating a hash once and comparing it against every stored hash. This makes cracking large numbers of hashes significantly harder, as the time required grows in direct proportion to the number of hashes.
 
-PEPPERING
+## PEPPERING
 Peppering in hashing adds a secret, random string (the "pepper") to a password before hashing, creating an extra layer of security beyond salting, where the pepper is stored separately from the database (e.g., in a config file or HSM) and not with the salted hash. This prevents attackers from cracking passwords even if they steal the entire database, as they also need to breach the separate system holding the secret pepper to reverse the hashes.
 
-WORK FACTOR
+## WORK FACTOR
 Work factor is the computation intensity cost you have to pay to crack the hash. KEEP IT MEDIUM for high perfomance and high security. LOW WORK FACTOR can compromise security leading to attacks and HIGH WORK FACTOR leads to perfomance issues of every time password being hashed and DOS (Denial of Service) Attacks.
 
-Assignment in WEBGOAT (answer)
+## Assignment in WEBGOAT (answer)
 
 TO FIND THE HASH's plain text value you have to find the hash type and hash length 32 and 64 which is cryptographic which means -> MD5, SHA256 etc
 you can use online hashing websites and guess different passwords like password1 or 12345678, admin , 987654321 etc
@@ -54,7 +55,7 @@ see if it matches the hash here it matches on
 
 So the correct guess values are admin and password
 
-MODERN HASHING ALGORITHMS (includes international characters)
+## MODERN HASHING ALGORITHMS (includes international characters)
 
 1. ARGON2
 2. Bcrypt
