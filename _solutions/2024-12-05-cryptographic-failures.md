@@ -53,6 +53,9 @@ see if it matches the hash here it matches on
 21232f297a57a5a743894a0e4a801fc3 (matches)
 21232F297A57A5A743894A0E4A801FC3 <- MD5 <- admin <- plain text used
 
+<img width="1455" height="339" alt="Screenshot 2025-12-05 185108" src="https://github.com/user-attachments/assets/bc822223-5978-4fd6-bdea-5587aa38ecb9" />
+
+
 So the correct guess values are admin and password
 
 ## MODERN HASHING ALGORITHMS (includes international characters)
