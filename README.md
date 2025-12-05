@@ -1,4 +1,4 @@
-**[ Home ](/)** | **[ About Me ](/about)**
+**[ Home ](/)** | **[ About Me ](/about)** | **[ WebGoatSolutions ](/webgoatsolutions)**
 # My Bug Bounty Writeups 
 
 <ul>
