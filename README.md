@@ -1,5 +1,5 @@
 **[ Home ](/)** | **[ About Me ](/about)** | **[ WebGoat Solutions ](/webgoatsolutions)**
-# My Bug Bounty Writeups 
+# My Bug Bounty Writeups https://sahilmir18.github.io/
 
 <ul>
   {% for post in site.posts %}
