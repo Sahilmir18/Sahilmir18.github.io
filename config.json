@@ -8,7 +8,7 @@
   "terminal": {
     "title": "Portfolio Terminal v0.01-alpha",
     "prompt": "$ / > ",
-    "defaultTheme": "orange"
+    "defaultTheme": "green"
   },
   "content": {
     "banner": [
@@ -82,7 +82,7 @@
     "projects": [
       "    * Projects:",
       "        - Alias: Real-Time Anonymous Web Application",
-      "          Check it on : <a href='https://alias-dbwa.onrender.com' target='_blank'> Here </a>",
+      "          Check it on : alias-dbwa.onrender.com",
       "",
       "        - DevSecOps Security Pipeline: Integrated Scanners for secure coding",
       "          Github: github.com/Sahilmir18/DevSecOps-pipeline/",
@@ -99,7 +99,7 @@
     "enableSound": false,
     "soundVolume": 0.3,
     "defaultFontSize": 16,
-    "defaultFontFamily": "Courier New",
+    "defaultFontFamily": "Roboto Mono",
     "availableFonts": ["Courier New", "Consolas", "Roboto Mono", "Fira Code"],
     "themes": ["green", "orange"]
   }
