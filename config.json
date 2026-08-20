@@ -82,7 +82,7 @@
     "projects": [
       "    * Projects:",
       "        - Alias: Real-Time Anonymous Web Application",
-      "          Check it on : https://alias-dbwa.onrender.com",
+      "          Check it on : <a href='https://alias-dbwa.onrender.com' target='_blank'> Here </a>",
       "",
       "        - DevSecOps Security Pipeline: Integrated Scanners for secure coding",
       "          Github: github.com/Sahilmir18/DevSecOps-pipeline/",
