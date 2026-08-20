@@ -16,6 +16,6 @@ Certifications
 *   VAC : Digital Forensics and Cybersecurity
 
 ### Contact
-*   [linkedin}(https://www.linkedin.com/in/mir-sahil-606342254)
+*   [linkedin](https://www.linkedin.com/in/mir-sahil-606342254)
 
 [< Back to Home](/)
