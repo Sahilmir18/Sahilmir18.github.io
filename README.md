@@ -1,4 +1,4 @@
-**[ Home ](/)** | **[ About Me ](/about)** | **[ WebGoat Solutions ](/webgoatsolutions)**
+**[ Home ](/)** | **[ About Me ](/about)** | **[ WebGoat Solutions ](/webgoatsolutions)** | **[ Certifications ](/Certifications)**
 # My Bug Bounty Writeups https://sahilmir18.github.io/
 
 <ul>
