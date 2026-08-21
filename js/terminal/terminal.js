@@ -80,6 +80,10 @@ export function processCommand(inputText) {
 	  case "theme orange":
 		applyTheme('Orange');
 		return userCommand + "\n" + "Theme changed to Orange.";
+	  case "blog":
+		window.open("https://Sahilmir18.github.io/blog","_blank");
+		addLine("Opening Research blog...","color2",0);
+		break;
 	  default:
 		return userCommand + "\n" + `Unknown command: ${inputText}`;
 	}
