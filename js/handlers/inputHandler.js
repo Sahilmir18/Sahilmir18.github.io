@@ -168,6 +168,7 @@ function getAutocompleteSuggestions(inputText) {
     "contact",
     "theme green",
     "theme orange",
+    "blog",
   ];
 
   return availableCommands.filter((command) => {
