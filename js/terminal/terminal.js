@@ -64,6 +64,11 @@ export function processCommand(inputText) {
 		return userCommand + "\n" + getContact();
 	  case "projects":
 		return userCommand + "\n" + getProjects();
+	  case "blog":
+		// return userCommand + "\n" + "Visit my blog at: https://sahilmir18.github.io/blog/";
+		window.location.href = "https://sahilmir18.github.io/blog/";
+		break;
+
 	  case "contact linkedin":
 		window.open(getLinkedInURL(), "_blank");
 		break;
