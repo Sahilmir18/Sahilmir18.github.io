@@ -3,10 +3,10 @@ import { scrollToBottom } from './utils.js';
 export function handleClick(event) {
   // Prevent default to completely disable mouse caret placement
   // Old terminals only allow keyboard navigation
-  if (event) {
-    event.preventDefault();
-    event.stopPropagation();
-  }
+  // if (event) {
+  //   event.preventDefault();
+  //   event.stopPropagation();
+  // }
 
   const input = document.getElementById("terminal-input");
   if (!input) return;
